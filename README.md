@@ -19,7 +19,9 @@ Dev Practices: TDD
 Currently learning: Ruby, Python, AWS 
 
 🗺️ How To Reach Me:
+
 email katiejonesyo@gmail.com
+
 linkedIn https://www.linkedin.com/in/katiejonesyo/
 
 
