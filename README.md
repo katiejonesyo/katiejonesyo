@@ -4,6 +4,10 @@
 
 ⚡ Pronouns: she/her
 
+
+
+
+
 💻 Tech Stack
 
 Languages: JavaScript, HTML,CSS
@@ -17,6 +21,10 @@ Tools: Heroku, Slack, Git, Githubm Postman, pgAdmin, Netlify, VSCode, CLI, Nodej
 Dev Practices: TDD
 
 Currently learning: Ruby, Python, AWS 
+
+
+
+
 
 🗺️ How To Reach Me:
 
