@@ -20,7 +20,7 @@ Currently learning: Ruby, Python, AWS
 
 katiejonesyo@gmail.com
 <br>
-(https://www.linkedin.com/in/katiejonesyo/)
+https://www.linkedin.com/in/katiejonesyo/
 
 
 
