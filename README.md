@@ -8,9 +8,13 @@
 ### 💻 Tech Stack
 
 -Languages: JavaScript, HTML,CSS
+<br>
 -Frameworks/Libraries/Packages: React, Express, Redux, MobX
+<br>
 -Databases:PostgresSQL
+<br>
 -Tools: Heroku, Slack, Git, Githubm Postman, pgAdmin, Netlify, VSCode, CLI, Nodejs
+<br>
 -Dev Practices: TDD
 
 Currently learning: Ruby, Python, AWS 
