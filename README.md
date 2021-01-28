@@ -5,32 +5,23 @@
 ⚡ Pronouns: she/her
 
 
+### 💻 Tech Stack
 
-
-
-💻 Tech Stack
-
-Languages: JavaScript, HTML,CSS
-
-Frameworks/Libraries/Packages: React, Express, Redux, MobX
-
-Databases:PostgresSQL
-
-Tools: Heroku, Slack, Git, Githubm Postman, pgAdmin, Netlify, VSCode, CLI, Nodejs
-
-Dev Practices: TDD
+-Languages: JavaScript, HTML,CSS
+-Frameworks/Libraries/Packages: React, Express, Redux, MobX
+-Databases:PostgresSQL
+-Tools: Heroku, Slack, Git, Githubm Postman, pgAdmin, Netlify, VSCode, CLI, Nodejs
+-Dev Practices: TDD
 
 Currently learning: Ruby, Python, AWS 
 
 
+### 🗺️ How To Reach Me:
 
-
-
-🗺️ How To Reach Me:
-
-email katiejonesyo@gmail.com
-
-linkedIn https://www.linkedin.com/in/katiejonesyo/
+<img src='email.png' alt='email' width='18px' /> katiejonesyo@gmail.com
+<br>
+<img src='linkedin.png' alt='linkedIn' width='18px' /> [LinkedIn]
+(https://www.linkedin.com/in/katiejonesyo/)
 
 
 
