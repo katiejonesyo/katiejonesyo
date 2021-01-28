@@ -18,9 +18,8 @@ Currently learning: Ruby, Python, AWS
 
 ### 🗺️ How To Reach Me:
 
-<img src='email.png' alt='email' width='18px' /> katiejonesyo@gmail.com
+katiejonesyo@gmail.com
 <br>
-<img src='linkedin.png' alt='linkedIn' width='18px' /> [LinkedIn]
 (https://www.linkedin.com/in/katiejonesyo/)
 
 
