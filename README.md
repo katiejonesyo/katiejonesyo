@@ -1,7 +1,10 @@
+![merp 2](https://user-images.githubusercontent.com/70240110/106085609-6264b600-60d5-11eb-99d3-1efc200081b6.png)
 
-![errorrrrr](https://user-images.githubusercontent.com/70240110/106077876-393d2900-60c7-11eb-800d-0aa5028fef9a.jpg)
+✨ Collaborative problem-solver transitioning to software development and web design with a background of customer service management. Also dabbling with photography, film, video production, and graphic design.
 
-Collaborative problem-solver transitioning to software development and web design with a background of customer service management. Also dabbling with photography, film, video production, and graphic design.
+⚡ Pronouns: she/her
+
+💻 Tech Stack
 
 Languages: JavaScript, HTML,CSS
 
@@ -14,6 +17,10 @@ Tools: Heroku, Slack, Git, Githubm Postman, pgAdmin, Netlify, VSCode, CLI, Nodej
 Dev Practices: TDD
 
 Currently learning: Ruby, Python, AWS 
+
+🗺️ How To Reach Me:
+email katiejonesyo@gmail.com
+linkedIn https://www.linkedin.com/in/katiejonesyo/
 
 
 
