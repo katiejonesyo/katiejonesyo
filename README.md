@@ -4,7 +4,9 @@
 Collaborative problem-solver transitioning to software development and web design with a background of customer service management. Also dabbling with photography, film, video production, and graphic design.
 
 Languages: JavaScript, HTML,CSS
+
 Frameworks/Libraries/Packages: React, Express, Redux, MobX
+
 Databases:PostgresSQL
 
 Tools: Heroku, Slack, Git, Githubm Postman, pgAdmin, Netlify, VSCode, CLI, Nodejs
