@@ -6,7 +6,8 @@ Collaborative problem-solver transitioning to software development and web desig
 Languages: JavaScript, HTML,CSS
 Frameworks/Libraries/Packages: React, Express, Redux, MobX
 Databases:PostgresSQL
-Tools: Heroku, Slack, Git, GitHub, Postman, pgAdmin, Netlify, VSCode, CLI, Nodejs
+
+Tools: Heroku, Slack, Git, Githubm Postman, pgAdmin, Netlify, VSCode, CLI, Nodejs
 Dev Practices: TDD
 
 Currently learning: Ruby, Python, AWS 
