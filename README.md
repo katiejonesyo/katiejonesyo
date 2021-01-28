@@ -10,6 +10,7 @@ Frameworks/Libraries/Packages: React, Express, Redux, MobX
 Databases:PostgresSQL
 
 Tools: Heroku, Slack, Git, Githubm Postman, pgAdmin, Netlify, VSCode, CLI, Nodejs
+
 Dev Practices: TDD
 
 Currently learning: Ruby, Python, AWS 
