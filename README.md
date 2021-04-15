@@ -1,6 +1,6 @@
 ![merp 2](https://user-images.githubusercontent.com/70240110/106085609-6264b600-60d5-11eb-99d3-1efc200081b6.png)
 
-✨ Collaborative problem-solver transitioning to software development and web design with a background of customer service management. Also dabbling with photography, film, video production, and graphic design.
+✨ Collaborative problem-solver transitioning to software development and web design with a background of customer service management. Also dabbling with photography, film, and video production.
 
 ⚡ Pronouns: she/her
 
@@ -25,6 +25,9 @@ Currently learning: Ruby, Python, AWS
 katiejonesyo@gmail.com
 <br>
 https://www.linkedin.com/in/katiejonesyo/
+
+<br> 
+https://katiejones.dev/
 
 
 
