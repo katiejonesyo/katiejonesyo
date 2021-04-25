@@ -2,7 +2,7 @@
 
 ✨ Collaborative problem-solver transitioning to software development and web design with a background of customer service management. Also dabbling with photography, film, and video production.
 
-⚡ Pronouns: she/her
+⚡ Pronouns: she/they
 
 
 ### 💻 Tech Stack
