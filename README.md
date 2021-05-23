@@ -9,7 +9,7 @@
 
 -Languages: JavaScript, HTML,CSS
 <br>
--Frameworks/Libraries/Packages: React, Express, Redux, MobX
+-Frameworks/Libraries/Packages: React, Express, Redux, Rails
 <br>
 -Databases:PostgresSQL
 <br>
@@ -17,7 +17,7 @@
 <br>
 -Dev Practices: TDD
 
-Currently learning: Ruby, Python, AWS 
+Currently learning: Ruby, Python, Typescript 
 
 
 ### 🗺️ How To Reach Me:
