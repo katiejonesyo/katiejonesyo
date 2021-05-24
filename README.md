@@ -17,7 +17,7 @@
 <br>
 -Dev Practices: TDD
 
-Currently learning: Ruby, Python, Typescript 
+Currently learning: Python, Typescript 
 
 
 ### 🗺️ How To Reach Me:
