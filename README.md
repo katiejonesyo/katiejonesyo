@@ -7,7 +7,7 @@
 
 ### 💻 Tech Stack
 
--Languages: JavaScript, HTML,CSS
+-Languages: JavaScript, HTML,CSS, Ruby
 <br>
 -Frameworks/Libraries/Packages: React, Express, Redux, Rails
 <br>
