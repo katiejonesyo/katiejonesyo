@@ -1,5 +1,3 @@
-![merp 2](https://user-images.githubusercontent.com/70240110/106085609-6264b600-60d5-11eb-99d3-1efc200081b6.png)
-
 ✨ Collaborative problem-solver, UI/UX and Product Designer, and Software Engineer with a background of customer service management. Also dabbling with photography, film, and video production.
 
 ⚡ Pronouns: she/they
