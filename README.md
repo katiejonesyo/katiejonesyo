@@ -19,10 +19,6 @@ Currently learning: Python, Typescript
 
 
 ### 🗺️ How To Reach Me:
-
-https://katiejones.dev/
-<br> 
-katiejonesyo@gmail.com
 <br>
 https://www.linkedin.com/in/katiejonesyo/
 
