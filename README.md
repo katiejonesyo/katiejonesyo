@@ -1,4 +1,4 @@
-✨ Collaborative problem-solver, UI/UX, Product Designer, and Full Stack Software Engineer with a background of customer service management. Also dabbling with photography, film, and video production.
+✨ Collaborative problem-solver, marketing human, UI/UX, and Full Stack Software Engineer.
 
 ⚡ Pronouns: she/they
 
